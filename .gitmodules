@@ -1,0 +1,3 @@
+[submodule "submodule123"]
+	path = submodule123
+	url = https://github.com/wdlushuai/wd01test.git
